@@ -1,5 +1,5 @@
 # Henry's Privacy Resources
-A list of resources to help me keep track of important news/studies/projects/etc. in the privacy & security world. This is designed for my own use, but I'm publicizing it as I believe much of it is information people should have access to. I will be putting everything here through the archive machine soon to ensure none of it is lost.
+A list of resources to help me keep track of important news/studies/projects/etc. in the privacy & security world. This is designed for my own use, but I'm publicizing it as I believe much of it is information people should have access to. I will be putting everything here through the archive machine soon to ensure none of it is lost. This is a constant work in progress and is currently incomplete.
 ____
 ## 🔬 Research 
 *Sorted by publish date*
