@@ -28,13 +28,15 @@ ____
 ### Browser
 - [BrowserLeaks - Show you what kind of personal identity data can be leaked](https://browserleaks.com/) *(Keywords: Tools & Resources, Browser Tools, Fingerprinting, Javascript, Unique, Browser)*
 
-### Digital Footprint/OSINT
-- [OSINT Framework - Gathering information from free tools or resources](https://osintframework.com/) *(Keywords: Tools & Resources, Digital Footprint, OSINT)*
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/) *(Keywords: Tools & Resources, Digital Footprint, OSINT, Machine Learning, Profile)*
-- [WhatsMyName - This tool allows you to enumerate usernames across many websites](https://whatsmyname.app/) *(Keywords: Tools & Resources, Digital Footprint, OSINT, Username)*
+### Digital Footprint
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) *(Keywords: Tools & Resources, Digital Footprint, Machine Learning, Profile)*
 
 ### iOS
 - [Open-Source iOS Apps - A community curated set of open-source iOS apps](https://open-source-ios-apps.netlify.app/) *(Keywords: Tools & Resources, iOS, FOSS, Open Source, List)*
+
+### OSINT
+- [OSINT Framework - Gathering information from free tools or resources](https://osintframework.com/) *(Keywords: Tools & Resources, OSINT)*
+- [WhatsMyName - This tool allows you to enumerate usernames across many websites](https://whatsmyname.app/) *(Keywords: Tools & Resources, OSINT, Username)*
 
 ### Search Engine
 - [The Search Engine Map - Types of search engines and where they get results from](https://www.searchenginemap.com/) *(Keywords: Tools & Resources, Search Engines, Search Results, Bing, DuckDuckGo, Startpage, Google, Yandex)*
