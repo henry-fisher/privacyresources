@@ -33,5 +33,5 @@ ____
 - [The Search Engine Map - Types of search engines and where they get results from](https://www.searchenginemap.com/) *(Keywords: Resources, Search Engines, Search Results, Bing, DuckDuckGo, Startpage, Google, Yandex)*
 
 ### Tor
-- [Real-World Onion Sites - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.](https://github.com/alecmuffett/real-world-onion-sites) *(Keywords: Resources, Tor, Onion Sites, List)*
-- [TorPlusVPN - All different ways to combine Tor with X have different pros and cons.](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN) *(Keywords: Resources, Tor, VPN, Proxy, SSH)*
+- [Real-World Onion Sites - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services](https://github.com/alecmuffett/real-world-onion-sites) *(Keywords: Resources, Tor, Onion Sites, List)*
+- [TorPlusVPN - All different ways to combine Tor with X have different pros and cons](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN) *(Keywords: Resources, Tor, VPN, Proxy, SSH)*
