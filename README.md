@@ -28,8 +28,9 @@ ____
 ### Browser
 - [BrowserLeaks - Show you what kind of personal identity data can be leaked](https://browserleaks.com/) *(Keywords: Tools & Resources, Browser Tools, Fingerprinting, Javascript, Unique, Browser)*
 
-### Digital Footprint
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/) *(Keywords: Tools & Resources, Digital Footprint, Machine Learning, OSINT, Profile)*
+### Digital Footprint/OSINT
+- [OSINT Framework - Gathering information from free tools or resources](https://osintframework.com/) *(Keywords: Tools & Resources, Digital Footprint, OSINT)*
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) *(Keywords: Tools & Resources, Digital Footprint, OSINT, Machine Learning, Profile)*
 - [WhatsMyName - This tool allows you to enumerate usernames across many websites](https://whatsmyname.app/) *(Keywords: Tools & Resources, Digital Footprint, OSINT, Username)*
 
 ### iOS
