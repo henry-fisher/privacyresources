@@ -16,22 +16,31 @@ ____
 ____
 ## 🌐 Tools & Resources
 *Sorted Alphabetically*
+### Alternative Front-Ends
+- [Bibliogram](https://bibliogram.art/) *(Keywords: Tools & Resources, Front-Ends, Instagram, Viewer)*
+- [Nitter](https://nitter.net/) *(Keywords: Tools & Resources, Front-Ends, Twitter, Viewer)*
+- [Picuki](https://www.picuki.com/) *(Keywords: Tools & Resources, Front-Ends, Instagram, Viewer)*
+
 ### Android
-- [Plexus - App compatibility on degoogled devices](https://plexus.techlore.tech/) *(Keywords: Resources, Android, Custom ROM, MicroG, Application, App)*
-- [Universal Android Debloater - Improve privacy, security and battery performance by removing unnecessary and obscure system apps](https://github.com/0x192/universal-android-debloater) *(Keywords: Projects, Android Tools, Google Play Services, System Apps, Android, Uninstall, Delete)*
+- [Plexus - App compatibility on degoogled devices](https://plexus.techlore.tech/) *(Keywords: Tools & Resources, Android, Custom ROM, MicroG, Application, App)*
+- [Universal Android Debloater - Improve privacy, security and battery performance by removing unnecessary and obscure system apps](https://github.com/0x192/universal-android-debloater) *(Keywords: Tools & Resources, Android Tools, Google Play Services, System Apps, Android, Uninstall, Delete)*
 
 ### Browser
-- [BrowserLeaks - Show you what kind of personal identity data can be leaked](https://browserleaks.com/) *(Keywords: Projects, Browser Tools, Fingerprinting, Javascript, Unique, Browser)*
+- [BrowserLeaks - Show you what kind of personal identity data can be leaked](https://browserleaks.com/) *(Keywords: Tools & Resources, Browser Tools, Fingerprinting, Javascript, Unique, Browser)*
 
 ### Digital Footprint
-- [WhatsMyName - This tool allows you to enumerate usernames across many websites](https://whatsmyname.app/) *(Keywords: Projects, Digital Footprint, OSINT, Username)*
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) *(Keywords: Tools & Resources, Digital Footprint, Machine Learning, OSINT, Profile)*
+- [WhatsMyName - This tool allows you to enumerate usernames across many websites](https://whatsmyname.app/) *(Keywords: Tools & Resources, Digital Footprint, OSINT, Username)*
 
 ### iOS
-- [Open-Source iOS Apps - A community curated set of open-source iOS apps](https://open-source-ios-apps.netlify.app/) *(Keywords: Resources, iOS, FOSS, Open Source, List)*
+- [Open-Source iOS Apps - A community curated set of open-source iOS apps](https://open-source-ios-apps.netlify.app/) *(Keywords: Tools & Resources, iOS, FOSS, Open Source, List)*
 
 ### Search Engine
-- [The Search Engine Map - Types of search engines and where they get results from](https://www.searchenginemap.com/) *(Keywords: Resources, Search Engines, Search Results, Bing, DuckDuckGo, Startpage, Google, Yandex)*
+- [The Search Engine Map - Types of search engines and where they get results from](https://www.searchenginemap.com/) *(Keywords: Tools & Resources, Search Engines, Search Results, Bing, DuckDuckGo, Startpage, Google, Yandex)*
+
+### Threat Modeling
+- [Opsec 101 - The basics of Opsec in a way that most anyone should be able to understand](https://opsec101.org/) *(Keywords: Tools & Resources, Threat Modeling, OPSEC)*
 
 ### Tor
-- [Real-World Onion Sites - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services](https://github.com/alecmuffett/real-world-onion-sites) *(Keywords: Resources, Tor, Onion Sites, List)*
-- [TorPlusVPN - All different ways to combine Tor with X have different pros and cons](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN) *(Keywords: Resources, Tor, VPN, Proxy, SSH)*
+- [Real-World Onion Sites - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services](https://github.com/alecmuffett/real-world-onion-sites) *(Keywords: Tools & Resources, Tor, Onion Sites, List)*
+- [TorPlusVPN - All different ways to combine Tor with X have different pros and cons](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN) *(Keywords: Tools & Resources, Tor, VPN, Proxy, SSH)*
