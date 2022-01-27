@@ -16,6 +16,10 @@ ____
 ____
 ## 🌐 Tools & Resources
 *Sorted Alphabetically*
+
+### 2FA
+- [2FA Directory](https://2fa.directory/) *(Keywords: Tools & Resources, 2FA, Two Factor Authentication, List)*
+
 ### Alternative Front-Ends
 - [Bibliogram](https://bibliogram.art/) *(Keywords: Tools & Resources, Front-Ends, Instagram, Viewer)*
 - [Nitter](https://nitter.net/) *(Keywords: Tools & Resources, Front-Ends, Twitter, Viewer)*
