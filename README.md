@@ -20,10 +20,13 @@ ____
 ### 2FA
 - [2FA Directory](https://2fa.directory/) *(Keywords: Tools & Resources, 2FA, Two Factor Authentication, List)*
 
+### Account Management
+- [Nuke Reddit History](https://www.reddit.com/r/NukeRedditHistory/) *(Keywords: Tools & Resources, Account Management, Reddit)*
+
 ### Alternative Front-Ends
-- [Bibliogram](https://bibliogram.art/) *(Keywords: Tools & Resources, Front-Ends, Instagram, Viewer)*
-- [Nitter](https://nitter.net/) *(Keywords: Tools & Resources, Front-Ends, Twitter, Viewer)*
-- [Picuki](https://www.picuki.com/) *(Keywords: Tools & Resources, Front-Ends, Instagram, Viewer)*
+- [Bibliogram - Instagram Frontend](https://bibliogram.art/) *(Keywords: Tools & Resources, Front-Ends, Instagram, Viewer)*
+- [Nitter - Twitter Frontend](https://nitter.net/) *(Keywords: Tools & Resources, Front-Ends, Twitter, Viewer)*
+- [Picuki - Instagram Frontend](https://www.picuki.com/) *(Keywords: Tools & Resources, Front-Ends, Instagram, Viewer)*
 
 ### Android
 - [Plexus - App compatibility on degoogled devices](https://plexus.techlore.tech/) *(Keywords: Tools & Resources, Android, Custom ROM, MicroG, Application, App)*
@@ -32,11 +35,31 @@ ____
 ### Browser
 - [BrowserLeaks - Show you what kind of personal identity data can be leaked](https://browserleaks.com/) *(Keywords: Tools & Resources, Browser Tools, Fingerprinting, Javascript, Unique, Browser)*
 
+### Cryptocurrency
+- [KYC? Not me!](https://kycnot.me/) *(Keywords: Tools & Resources, Cryptocurrency, KYC, Identity)*
+
 ### Digital Footprint
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/) *(Keywords: Tools & Resources, Digital Footprint, Machine Learning, Profile)*
+- [BreachDirectory - Check for data breaches](https://breachdirectory.org/) *(Keywords: Tools & Resources, Digital Footprint, Data Breach, Email, Phone, Username)*
+- [Have I Been Pwned - Check for data breaches](https://haveibeenpwned.com/) *(Keywords: Tools & Resources, Digital Footprint, Data Breach, Email, Phone)*
+- [The Paranoid's Bible - An Anti-Dox Effort](https://paranoidsbible.tumblr.com/post/163682829279/quickie-the-paranoids-bible) *(Keywords: Tools & Resources, Digital Footprint, Dox, Doxing)*
+- [The Paranoid's Bible 2.0 - An Anti-Dox Effort](https://paranoidsbible.tumblr.com/post/160173700334/the-paranoids-bible-20) *(Keywords: Tools & Resources, Digital Footprint, Dox, Doxing)*
+- [This Person Does Not Exist - Face Generator](https://thispersondoesnotexist.com/) *(Keywords: Tools & Resources, Digital Footprint, Machine Learning, Profile)*
+
+### Education
+- [Recommending Tools - How to reduce harm to participants when recommending tools](https://sec.eff.org/articles/recommending-tools) *(Keywords: Tools & Resources, Education, EFF)*
+
+### External Resources
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) *(Keywords: Tools & Resources, External Resources)*
 
 ### iOS
 - [Open-Source iOS Apps - A community curated set of open-source iOS apps](https://open-source-ios-apps.netlify.app/) *(Keywords: Tools & Resources, iOS, FOSS, Open Source, List)*
+
+### Messengers
+- [Messenger Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) *(Keywords: Tools & Resources, Messengers, Comparison)*
+
+### Miscellaneous
+- [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html) *(Keywords: Tools & Resources, Miscellaneous, Ads, Ad Blocker)*
+- [How I experience the web today](https://how-i-experience-web-today.com/) *(Keywords: Tools & Resources, Miscellaneous, Web, Internet)*
 
 ### OSINT
 - [OSINT Framework - Gathering information from free tools or resources](https://osintframework.com/) *(Keywords: Tools & Resources, OSINT)*
@@ -51,3 +74,20 @@ ____
 ### Tor
 - [Real-World Onion Sites - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services](https://github.com/alecmuffett/real-world-onion-sites) *(Keywords: Tools & Resources, Tor, Onion Sites, List)*
 - [TorPlusVPN - All different ways to combine Tor with X have different pros and cons](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN) *(Keywords: Tools & Resources, Tor, VPN, Proxy, SSH)*
+____
+## 🔗 Services
+*Sorted Alphabetically*
+
+### Address Aliasing
+- [PostScanMail - View and Manage Your Postal Mail Online](https://www.postscanmail.com/) *(Keywords: Services, Address Aliasing, Fake Address, Business Address, Alias)*
+
+### Cryptocurrency
+- [Coincards - Spend crypto at top brands](https://coincards.com/) *(Keywords: Services, Cryptocurrency, Payment Aliasing, Gift Card)*
+- [Moon - Pay with crypto](https://paywithmoon.com/) *(Keywords: Services, Cryptocurrency, Payment Aliasing, Fake Card, Debit Card, Credit Card, Alias)*
+- [Travala - Travel with crypto](https://www.travala.com/) *(Keywords: Services, Cryptocurrency, Travel, Flying, Hotel)*
+
+### Payment Aliasing
+- [Viabuy](https://www.viabuy.com/the-prepaid-mastercard-in-gold-or-black.html) *(Keywords: Services, Payment Aliasing, Fake Card, Debit Card, Credit Card, Prepaid Card, Alias)*
+
+### Phone Number Aliasing
+- [Textverified](https://www.textverified.com/) *(Keywords: Services, Phone Number Aliasing, Fake Number, Second Number, Alias)*
