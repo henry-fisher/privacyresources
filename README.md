@@ -17,6 +17,12 @@ ____
 - [CTemplar New Backup Protocols](https://old.reddit.com/r/ctemplar/comments/qmbu7m/curious_how_email_backups_are_going/hj9y4yq/) *(Keywords: News, Email, CTemplar, Backups)* | **4 November 2021**
 - [CTemplar Data Incident PSA](https://old.reddit.com/r/ctemplar/comments/qgz64o/psa_2021_report/) *(Keywords: News, Email, CTemplar, PSA, Backups)* | **27 October 2021**
 
+#### Mobile
+- [The Sad Saga of Purism and the Librem 5 : Part 3](https://jaylittle.com/post/view/2019/10/the-sad-saga-of-purism-and-the-librem-5-part-3) *(Keywords: News, Mobile, Purism, Librem 5)* | **25 October 2019**
+- [The Sad Saga of Purism and the Librem 5 : Part 2](https://jaylittle.com/post/view/2019/10/the-sad-saga-of-purism-and-the-librem-5-part-2) *(Keywords: News, Mobile, Purism, Librem 5)* | **25 October 2019**
+- [The Sad Saga of Purism and the Librem 5 : Part 1](https://jaylittle.com/post/view/2019/10/the-sad-saga-of-purism-and-the-librem-5-part-1) *(Keywords: News, Mobile, Purism, Librem 5)* | **23 October 2019**
+- [An Interview With Zlatan Todoric, Open-Source Developer & Former Purism CTO](https://www.phoronix.com/scan.php?page=news_item&px=Zlatan-Todoric-Interview) *(Keywords: News, Mobile, Purism, Librem 5)* | **20 October 2019**
+
 #### Tor
 - [Why Does Tor Browser for Android have Trackers?](https://blog.torproject.org/friends-of-tor-match-2020/#comment-290239) *(Keywords: News, Tor, Exodus Privacy, Trackers)* | **9 November 2020**
 - [Dark web doesn't exist, says Tor's Dingledine. And folks use network for privacy, not crime](https://www.theregister.com/2017/07/29/tor_dark_web/) *(Keywords: News, Tor, Dark Web, Crime)* | **11 February 2018**
@@ -91,6 +97,7 @@ ____
 #### Miscellaneous
 - [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html) *(Keywords: Resources & Tools, Miscellaneous, Ads, Ad Blocker)*
 - [How I experience the web today](https://how-i-experience-web-today.com/) *(Keywords: Resources & Tools, Miscellaneous, Web, Internet)* | **My Notes: Love this site lol.**
+- [Terms of Service; Didn't Read](https://tosdr.org/) *(Keywords: Resources & Tools, Miscellaneous, Privacy Policy)*
 
 #### OSINT
 - [Cyber Background Checks - Search people, street addresses, phone numbers or emails!](https://www.cyberbackgroundchecks.com/) *(Keywords: Resources & Tools, OSINT, Name, Address, Phone, Email)*
@@ -119,6 +126,9 @@ ____
 
 #### Browser Tools
 - [arkenfox](https://github.com/arkenfox) *(Keywords: Services, Browser Tools, Firefox, Hardening)* | **My Notes: A convenient and thorough method of hardening Firefox.**
+
+#### Dating
+- [Alovoa - Meet new, exciting people!](https://alovoa.com/) *(Keywords: Services, Dating)*
 
 #### Cryptocurrency
 - [Bisq - Exchange, Decentralized](https://bisq.network/) *(Keywords: Services, Cryptocurrency, Exchange)* | **My Notes: Peer to peer Bitcoin exchange.**
